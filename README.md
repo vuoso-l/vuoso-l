@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vuoso-l&label=Profile%20views&color=0e75b6&style=flat" alt="vuoso-l" /> </p>
 
-- 🔭 I’m currently working on [Manteca & Harina](https://vuoso-l.github.io/client-manteca-y-harina/)
+- 📚 I´m currently studying the carrer [**Certified Tech Developer**](https://www.digitalhouse.com/ar/acciones/certified-tech-developer) by **Mercado Libre and Globant** al Digital House
+
+- 🔭 I’m currently working on [**Manteca & Harina**](https://vuoso-l.github.io/client-manteca-y-harina/)
 
 - 🌱 I’m currently learning **React Js, React-testing-library**
 
-- 👨‍💻 All of my projects are available at [portfolio](https://vuoso-l.github.io/portfolio_react/)
+- 👨‍💻 All of my projects are available at [**portfolio**](https://vuoso-l.github.io/portfolio_react/)
 
 - 📫 How to reach me **vuosolucas@gmail.com**
 
