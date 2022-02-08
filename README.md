@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas Vuoso</h1>
 <h3 align="center">A passionate frontend developer from Buenos Aires, Argentina</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vuoso-l&label=Profile%20views&color=0e75b6&style=flat" alt="vuoso-l" /> </p>
-
 - 📚 I´m currently studying the carrer [**Certified Tech Developer**](https://www.digitalhouse.com/ar/acciones/certified-tech-developer) by **Mercado Libre and Globant** al Digital House
 
 - 🔭 I’m currently working on [**Manteca & Harina**](https://vuoso-l.github.io/client-manteca-y-harina/)
