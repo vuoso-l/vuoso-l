@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Js, React-testing-library**
 
-- 👨‍💻 All of my projects are available at [**portfolio**](https://vuoso-l.github.io/portfolio_react/)
+- 👨‍💻 All of my projects are available at [**portfolio**](https://portfolio-vuoso-lucas.vercel.app/)
 
 - 📫 How to reach me **vuosolucas@gmail.com**
 
