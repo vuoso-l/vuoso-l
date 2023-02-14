@@ -3,11 +3,11 @@
 <h3 align="center">Graduated from UTN Buenos Aires (E-learning Center) as a fullStack developer with ReactJS and NodeJS.</h3>
 <p align="center">I am a pro-active person, willing to face new challenges and constantly trying to improve myself, motivated by teamwork and collaboration environments. I am passionate about nature (mainly mountains) and sports (running and cycling).</p>
 
-- 📚 I´m currently studying the carrer [**Certified Tech Developer**](https://www.digitalhouse.com/ar/acciones/certified-tech-developer) by **Mercado Libre and Globant** al Digital House
+- 🔭 I’m currently working at [**Imajine Studio**](https://imajine.com/)
 
-- 🔭 I’m currently working on [**Manteca & Harina**](https://vuoso-l.github.io/client-manteca-y-harina/)
+- 📚 I finished the first year of the carrer [**Certified Tech Developer**](https://www.digitalhouse.com/ar/acciones/certified-tech-developer) by **Mercado Libre and Globant** al Digital House
 
-- 🌱 I’m currently learning **Next Js, React-testing-library**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [**portfolio**](https://portfolio-vuoso-lucas.vercel.app/)
 
