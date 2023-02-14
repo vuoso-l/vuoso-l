@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Vuoso</h1>
-<h2 align="center">A passionate frontend developer from Buenos Aires, Argentina</h2>
+<h2 align="center">A passionate frontend developer from Mendoza, Argentina</h2>
 <h3 align="center">Graduated from UTN Buenos Aires (E-learning Center) as a fullStack developer with ReactJS and NodeJS.</h3>
 <p align="center">I am a pro-active person, willing to face new challenges and constantly trying to improve myself, motivated by teamwork and collaboration environments. I am passionate about nature (mainly mountains) and sports (running and cycling).</p>
 
