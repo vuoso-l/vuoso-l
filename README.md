@@ -7,8 +7,6 @@
 
 - 📚 I finished the first year of the carrer [**Certified Tech Developer**](https://www.digitalhouse.com/ar/acciones/certified-tech-developer) by **Mercado Libre and Globant** al Digital House
 
-- 🌱 I’m currently learning **React Native**
-
 - 👨‍💻 All of my projects are available at [**portfolio**](https://portfolio-vuoso-lucas.vercel.app/)
 
 - 📫 How to reach me **vuosolucas@gmail.com**
